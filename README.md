@@ -30,5 +30,21 @@ Here are some ideas to get you started:
 <!-- About me -->  
 <p> My name is Praffulla Kumar Dubey. I am final year B.Tech student at SRM Institute of Science and Technology. I am a self learner and have a great passion for Data Science. I am also strongly inclined towards research and like to write and share my knowledge about latest technologies, do check my medium account. </p>
 
+<!-- Social Links --> 
 
+<h3 align="left">Want to collaborate or get in touch? Feel free to connect with me:</h3>  
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/praffullakumardubey/" target="blank"><img align="center" src="https://github.com/PraffullaDubey/PraffullaDubey/blob/master/assets/linkedin.svg" alt="PraffullaDubey" height="30" width="30" /></a>
+
+<a href = "https://praffullakrdubey.medium.com/" target="blank"><img align="center" src="https://github.com/PraffullaDubey/PraffullaDubey/blob/master/assets/medium.svg" alt="PraffullaDubey" height="30" width="30" /></a>
+
+<a href="https://twitter.com/praffullakdubey" target="blank"><img align="center" src="https://github.com/PraffullaDubey/PraffullaDubey/blob/master/assets/twitter.svg" alt="PraffullaDubey" height="30" width="30" /></a>
+
+<a href="https://www.instagram.com/praffulla_dubey/" target="blank"><img align="center" src="https://github.com/PraffullaDubey/PraffullaDubey/blob/master/assets/instagram.svg" alt="PraffullaDubey" height="30" width="30" /></a>
+
+<a href = "https://praffulladubey.github.io/" target="blank"><img align="center" src="https://github.com/PraffullaDubey/PraffullaDubey/blob/master/assets/web.svg" alt="PraffullaDubey" height="30" width="30" /></a>
+
+</p>
 
