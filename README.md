@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **PraffullaDubey/PraffullaDubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![Banner](https://github.com/PraffullaDubey/PraffullaDubey/blob/main/Github-Profile-Cover.png)
+
+<!-- retro visitor counter -->  
+<p align="center">   
+  <img src="https://profile-counter.glitch.me/{PraffullaDubey}/count.svg" />  
+</p>  
+
+### Hi there 👋
+
+
