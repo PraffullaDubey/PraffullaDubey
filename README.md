@@ -40,6 +40,5 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/praffullakdubey" target="blank"><img align="center" src="https://github.com/PraffullaDubey/PraffullaDubey/blob/main/assets/twitter.svg" alt="PraffullaDubey" height="30" width="30" /></a>
 <a href="https://instagram.com/praffulla_dubey" target="blank"><img align="center" src="https://github.com/PraffullaDubey/PraffullaDubey/blob/main/assets/instagram.svg" alt="PraffullaDubey" height="30" width="30" /></a>  
 <a href = "https://praffulladubey.github.io/" target="blank"><img align="center" src="https://github.com/PraffullaDubey/PraffullaDubey/blob/main/assets/web.svg" alt="PraffullaDubey" height="30" width="30" /></a>
-
 </p>
 
