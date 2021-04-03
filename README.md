@@ -36,15 +36,15 @@ Here are some ideas to get you started:
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/praffullakumardubey/" target="blank"><img align="center" src="https://github.com/PraffullaDubey/PraffullaDubey/blob/master/assets/linkedin.svg" alt="PraffullaDubey" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/praffullakumardubey/" target="blank"><img align="center" src="https://github.com/PraffullaDubey/PraffullaDubey/blob/main/assets/linkedin.svg" alt="PraffullaDubey" height="30" width="30" /></a>
 
-<a href = "https://praffullakrdubey.medium.com/" target="blank"><img align="center" src="https://github.com/PraffullaDubey/PraffullaDubey/blob/master/assets/medium.svg" alt="PraffullaDubey" height="30" width="30" /></a>
+<a href = "https://praffullakrdubey.medium.com/" target="blank"><img align="center" src="https://github.com/PraffullaDubey/PraffullaDubey/blob/main/assets/medium.svg" alt="PraffullaDubey" height="30" width="30" /></a>
 
-<a href="https://twitter.com/praffullakdubey" target="blank"><img align="center" src="https://github.com/PraffullaDubey/PraffullaDubey/blob/master/assets/twitter.svg" alt="PraffullaDubey" height="30" width="30" /></a>
+<a href="https://twitter.com/praffullakdubey" target="blank"><img align="center" src="https://github.com/PraffullaDubey/PraffullaDubey/blob/main/assets/twitter.svg" alt="PraffullaDubey" height="30" width="30" /></a>
 
-<a href="https://www.instagram.com/praffulla_dubey/" target="blank"><img align="center" src="https://github.com/PraffullaDubey/PraffullaDubey/blob/master/assets/instagram.svg" alt="PraffullaDubey" height="30" width="30" /></a>
+<a href="https://www.instagram.com/praffulla_dubey/" target="blank"><img align="center" src="https://github.com/PraffullaDubey/PraffullaDubey/blob/main/assets/instagram.svg alt="PraffullaDubey" height="30" width="30" /></a>
 
-<a href = "https://praffulladubey.github.io/" target="blank"><img align="center" src="https://github.com/PraffullaDubey/PraffullaDubey/blob/master/assets/web.svg" alt="PraffullaDubey" height="30" width="30" /></a>
+<a href = "https://praffulladubey.github.io/" target="blank"><img align="center" src="https://github.com/PraffullaDubey/PraffullaDubey/blob/main/assets/web.svg" alt="PraffullaDubey" height="30" width="30" /></a>
 
 </p>
 
