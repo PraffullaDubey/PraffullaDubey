@@ -73,10 +73,10 @@ Here are some ideas to get you started:
 
 <p>  
 <!-- GitHub Stats -->  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PraffullaDubey&theme=blueberry&count_private=true&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PraffullaDubey&theme=gotham&count_private=true&show_icons=true&hide_border=true" />
 
 <!-- Most Used Languages -->  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraffullaDubey&theme=slateorange&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraffullaDubey&theme=blue-green&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
 </p>  
 
 
