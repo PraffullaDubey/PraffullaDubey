@@ -60,3 +60,8 @@ Here are some ideas to get you started:
 - [Redshift vs BigQuery vs Snowflake](https://praffullakrdubey.medium.com/redshift-vs-bigquery-vs-snowflake-1455f389c99f)
 - [Understanding Data Science pipeline and it’s general terms.](https://praffullakrdubey.medium.com/understanding-data-science-pipeline-and-its-general-terms-5898c6927707)
 <!-- BLOG-POST-LIST:END -->
+
+<br>
+<p> Visit my <a href = "https://praffulladubey.github.io/#testimonials"> website </a> to see my research papers!!!</p>
+<br>
+
