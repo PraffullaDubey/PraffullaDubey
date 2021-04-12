@@ -55,11 +55,13 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [Four different ways to summarize your text using Python](https://medium.datadriveninvestor.com/four-different-ways-to-summarize-your-text-using-python-6a6bcabc1402?source=rss-63b9278b4036------2)
-- [Let’s Handle Files with Python](https://medium.datadriveninvestor.com/lets-handle-files-with-python-e195370409d8?source=rss-63b9278b4036------2)
-- [Building a Speech Recognizer using Python](https://medium.datadriveninvestor.com/building-a-speech-recognizer-using-python-ec155a5bc6ce?source=rss-63b9278b4036------2)
-- [Understanding Pickle Module in Python](https://praffullakrdubey.medium.com/understanding-pickle-module-in-python-6229caa6f39e?source=rss-63b9278b4036------2)
-- [Redshift vs BigQuery vs Snowflake](https://praffullakrdubey.medium.com/redshift-vs-bigquery-vs-snowflake-1455f389c99f?source=rss-63b9278b4036------2)
+- [Four different ways to summarize your text using Python](https://medium.datadriveninvestor.com/four-different-ways-to-summarize-your-text-using-python-6a6bcabc1402)
+- [Let’s Handle Files with Python](https://medium.datadriveninvestor.com/lets-handle-files-with-python-e195370409d8)
+- [Building a Speech Recognizer using Python](https://medium.datadriveninvestor.com/building-a-speech-recognizer-using-python-ec155a5bc6ce)
+- [Understanding Pickle Module in Python](https://praffullakrdubey.medium.com/understanding-pickle-module-in-python-6229caa6f39e)
+- [With the current COVID-19 will there be a shakeup of smartphone brands in India? At the end of the year which brands will gain market share and which brands will lose? What would be the reasons?](https://praffullakrdubey.medium.com/with-the-current-covid-19-will-there-be-a-shakeup-of-smartphone-brands-in-india-4e797e531532)
+- [Redshift vs BigQuery vs Snowflake](https://praffullakrdubey.medium.com/redshift-vs-bigquery-vs-snowflake-1455f389c99f)
+- [Understanding Data Science pipeline and it’s general terms.](https://praffullakrdubey.medium.com/understanding-data-science-pipeline-and-its-general-terms-5898c6927707)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
@@ -81,4 +83,4 @@ Here are some ideas to get you started:
 <!-- Comment -->
 <hr>
 <!-- Footer Section -->
-<em><b>Have a new project in mind? Let's collaborate and build something awesome. Let's turn that idea to an even greater product!</b> 😊 </em>
+<em><b>Have a new project in mind? 🤔 Let's collaborate and build something awesome. Let's turn that idea to an even greater product!</b> 😊 </em>
