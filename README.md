@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 - [Building a Speech Recognizer using Python](https://medium.datadriveninvestor.com/building-a-speech-recognizer-using-python-ec155a5bc6ce?source=rss-63b9278b4036------2)
 - [Understanding Pickle Module in Python](https://praffullakrdubey.medium.com/understanding-pickle-module-in-python-6229caa6f39e?source=rss-63b9278b4036------2)
 - [Redshift vs BigQuery vs Snowflake](https://praffullakrdubey.medium.com/redshift-vs-bigquery-vs-snowflake-1455f389c99f?source=rss-63b9278b4036------2)
+- [Understanding Data Science pipeline and it’s general terms.](https://praffullakrdubey.medium.com/understanding-data-science-pipeline-and-its-general-terms-5898c6927707)
 <!-- BLOG-POST-LIST:END -->
 
 
