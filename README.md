@@ -68,16 +68,6 @@ Here are some ideas to get you started:
 <p> Visit my <a href = "https://praffulladubey.github.io/#testimonials"> website </a> to see my research papers!!!</p>
 <hr>
 
-<!-- GitHub stats -->  
-<b>⚡ My Github Statistics ⚡</b>
-
-<p>  
-<!-- GitHub Stats -->  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PraffullaDubey&show_icons=true&hide_border=true" />
-
-<!-- Most Used Languages -->  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraffullaDubey&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
-</p>  
 
 
 <!-- Comment -->
