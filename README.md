@@ -60,3 +60,22 @@ Here are some ideas to get you started:
 - [Redshift vs BigQuery vs Snowflake](https://praffullakrdubey.medium.com/redshift-vs-bigquery-vs-snowflake-1455f389c99f)
 - [Understanding Data Science pipeline and it’s general terms.](https://praffullakrdubey.medium.com/understanding-data-science-pipeline-and-its-general-terms-5898c6927707)
 <!-- BLOG-POST-LIST:END -->
+
+<hr>
+<p> Visit my <a href = "https://praffulladubey.github.io/#testimonials"> website </a> to see my research papers!!!</p>
+<hr>
+
+<!-- GitHub stats -->  
+<b>⚡ My Github Statistics ⚡</b>
+
+<p>  
+<!-- GitHub Stats -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PraffullaDubey&show_icons=true&hide_border=true" />
+
+<!-- Most Used Languages -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraffullaDubey&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+</p>  
+
+<hr>
+<!-- Footer Section -->
+<em><b>Have a new project in mind? Let's collaborate and build something awesome. Let's turn that idea to an even greater product!</b> 😊 </em>
