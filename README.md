@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub stats -->  
 <b>⚡ My Github Statistics ⚡</b>
-
+![Praffulla's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraffullaDubey&count_private=true)
 <p>  
 <!-- GitHub Stats -->  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PraffullaDubey&show_icons=true&hide_border=true" />
