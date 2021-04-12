@@ -76,3 +76,5 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraffullaDubey&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
 </p>  
 
+<!-- Footer Section -->
+<em><b>Have a new project in mind? Let's collaborate and build something awesome. Let's turn that idea to an even greater product!</b> 😊 </em>
