@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 - [Redshift vs BigQuery vs Snowflake](https://praffullakrdubey.medium.com/redshift-vs-bigquery-vs-snowflake-1455f389c99f?source=rss-63b9278b4036------2)
 <!-- BLOG-POST-LIST:END -->
 
+
 <hr>
 <p> Visit my <a href = "https://praffulladubey.github.io/#testimonials"> website </a> to see my research papers!!!</p>
 <hr>
@@ -82,3 +83,4 @@ Here are some ideas to get you started:
 <hr>
 <!-- Footer Section -->
 <em><b>Have a new project in mind? 🤔 Let's collaborate and build something awesome. Let's turn that idea to an even greater product!</b> 😊 </em>
+
