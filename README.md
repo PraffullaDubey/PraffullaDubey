@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [LET’S LEARN SENTIMENT ANALYSIS](https://medium.datadriveninvestor.com/lets-learn-sentiment-analysis-2884aeca12e5?source=rss-63b9278b4036------2)
 - [Four different ways to summarize your text using Python](https://medium.datadriveninvestor.com/four-different-ways-to-summarize-your-text-using-python-6a6bcabc1402?source=rss-63b9278b4036------2)
 - [Let’s Handle Files with Python](https://medium.datadriveninvestor.com/lets-handle-files-with-python-e195370409d8?source=rss-63b9278b4036------2)
 - [Building a Speech Recognizer using Python](https://medium.datadriveninvestor.com/building-a-speech-recognizer-using-python-ec155a5bc6ce?source=rss-63b9278b4036------2)
 - [Understanding Pickle Module in Python](https://praffullakrdubey.medium.com/understanding-pickle-module-in-python-6229caa6f39e?source=rss-63b9278b4036------2)
-- [Redshift vs BigQuery vs Snowflake](https://praffullakrdubey.medium.com/redshift-vs-bigquery-vs-snowflake-1455f389c99f?source=rss-63b9278b4036------2)
 <!-- BLOG-POST-LIST:END -->
 
 
