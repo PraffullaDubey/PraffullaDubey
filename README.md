@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PraffullaDubey&count_private=true&theme=blueberry&show_icons=true&hide_border=true" />
 
 <!-- Most Used Languages -->  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraffullaDubey&theme=blueberry&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraffullaDubey&theme=blueberry&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
 </p>  
 
 
